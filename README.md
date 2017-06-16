@@ -1,2 +1,2 @@
 # Algorithm-Data-Structure
-My implemented algorithm and data structure
+Wei's implemented algorithm and data structure
